@@ -1,3 +1,8 @@
+**NAME : Chandru M**
+
+**REG NO : 212224230041**
+
+
 # Ex.No:1a  			Study of Socket Programming
 
 ## Aim: 
